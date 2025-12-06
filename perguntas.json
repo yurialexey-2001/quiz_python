@@ -1,0 +1,129 @@
+{
+    "perguntas": [
+        {
+            "pgt": "O que significa SQL?",
+            "alt": "a) Simple Query Language\nb) Structured Query Language\nc) System Quality Level\nd) Structured Quick Logic",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual comando SQL é usado para selecionar dados de uma tabela?",
+            "alt": "a) SELECT\nb) GET\nc) SHOW\nd) PICK",
+            "resp": "a"
+        },
+        {
+            "pgt": "Qual comando SQL insere novos registros?",
+            "alt": "a) ADD\nb) INSERT INTO\nc) NEW ROW\nd) PUT",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual é a função do comando WHERE no SQL?",
+            "alt": "a) Ordenar dados\nb) Filtrar registros\nc) Criar uma tabela\nd) Unir tabelas",
+            "resp": "b"
+        },
+        {
+            "pgt": "O que o comando ORDER BY faz?",
+            "alt": "a) Filtra linhas\nb) Ordena resultados\nc) Exclui uma tabela\nd) Cria agrupamentos",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual comando remove uma tabela inteira no SQL?",
+            "alt": "a) DELETE\nb) DROP TABLE\nc) ERASE TABLE\nd) REMOVE",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual função SQL retorna a quantidade de registros?",
+            "alt": "a) SUM\nb) COUNT\nc) TOTAL\nd) SIZE",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual comando cria uma nova tabela?",
+            "alt": "a) NEW TABLE\nb) CREATE TABLE\nc) ADD TABLE\nd) MAKE TABLE",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual comando combina registros de duas tabelas com base em uma condição?",
+            "alt": "a) CONNECT\nb) LINK\nc) JOIN\nd) UNION",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual cláusula é usada para agrupar resultados no SQL?",
+            "alt": "a) GROUP BY\nb) ORDER BY\nc) SORT BY\nd) UNION",
+            "resp": "a"
+        },
+        {
+            "pgt": "O que é Python?",
+            "alt": "a) Um framework web\nb) Um banco de dados\nc) Uma linguagem de programação\nd) Um sistema operacional",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual comando exibe algo no console em Python?",
+            "alt": "a) echo()\nb) print()\nc) show()\nd) display()",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual destas é uma estrutura de dados do Python?",
+            "alt": "a) arraylist\nb) vector\nc) list\nd) tuplelist",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual símbolo é usado para comentários em Python?",
+            "alt": "a) //\nb) <!-- -->\nc) #\nd) %%",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual função retorna o tamanho de uma lista em Python?",
+            "alt": "a) size()\nb) count()\nc) len()\nd) length()",
+            "resp": "c"
+        },
+        {
+            "pgt": "Como se cria uma função em Python?",
+            "alt": "a) define minha_funcao():\nb) func minha_funcao():\nc) def minha_funcao():\nd) create minha_funcao():",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual tipo representa valores Verdadeiro/Falso?",
+            "alt": "a) bool\nb) str\nc) bin\nd) char",
+            "resp": "a"
+        },
+        {
+            "pgt": "Qual estrutura executa um bloco repetidamente enquanto a condição for verdadeira?",
+            "alt": "a) if\nb) for\nc) while\nd) repeat",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual comando interrompe um loop?",
+            "alt": "a) stop\nb) end\nc) exit\nd) break",
+            "resp": "d"
+        },
+        {
+            "pgt": "O que o método append() faz em listas?",
+            "alt": "a) Remove o último item\nb) Adiciona um item ao final\nc) Ordena a lista\nd) Substitui um item",
+            "resp": "b"
+        },
+        {
+            "pgt": "O que significa a sigla CRUD?",
+            "alt": "a) Create, Remove, Update, Delete\nb) Create, Read, Update, Delete\nc) Copy, Replace, Upload, Download\nd) Count, Read, Update, Drop",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual comando em SQL atualiza valores?",
+            "alt": "a) UPDATE\nb) MODIFY\nc) CHANGE\nd) SET",
+            "resp": "a"
+        },
+        {
+            "pgt": "Qual destes é um tipo de dado do SQL?",
+            "alt": "a) boolean\nb) integer\nc) object\nd) dict",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual destes é um operador lógico em SQL?",
+            "alt": "a) PLUS\nb) OR\nc) WITH\nd) AS",
+            "resp": "b"
+        },
+        {
+            "pgt": "O que a função type() faz em Python?",
+            "alt": "a) Converte o tipo\nb) Retorna o tipo da variável\nc) Cria um novo tipo\nd) Define um alias",
+            "resp": "b"
+        }
+    ]
+}
