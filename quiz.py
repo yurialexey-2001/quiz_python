@@ -56,8 +56,7 @@ def modo_hard(lista_pgt,score):
                     quit()
                 else: 
                     print("Insira uma opção válida!")
-            else:
-                finalizar(score)
+            finalizar(score)
     print(f"Fim do quiz!\nSeu score foi de {score} pontos")
     time.sleep(4)
     quit()
@@ -94,3 +93,5 @@ with open("C:/Users/usu/OneDrive/Área de Trabalho/codigos/quiz de python/pergun
 
 random.shuffle(perguntas)
 perguntar(perguntas,0)
+
+
