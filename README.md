@@ -69,22 +69,22 @@ Para iniciar o quiz, usamos **random.shuffle(perguntas)** para que as perguntas 
 
 Abra o arquivo perguntas.json e adicione um novo objeto dentro da lista "perguntas"(NÃO ALTERE O FORMATO):
 
-{
-    "pgt": "Sua nova pergunta aqui",
-    "alt": "a) opção 1\nb) opção 2\nc) opção 3\nd) opção 4",
-    "resp": "a"
-}
+![edição json](image-5.png)
 
 **⚠️Importante:**
 
 Mantenha as quebras de linha \n;
+
 Não esqueça da vírgula após cada pergunta, exceto a última;
 
 **Modificar uma pergunta existente**
 
 Edite qualquer campo dentro da estrutura:
+
 troque o texto da pergunta ("pgt");
+
 altere as alternativas ("alt");
+
 mude a resposta correta ("resp").
 
 **Remover uma pergunta**
