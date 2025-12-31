@@ -124,6 +124,107 @@
             "pgt": "O que a função type() faz em Python?",
             "alt": "a) Converte o tipo\nb) Retorna o tipo da variável\nc) Cria um novo tipo\nd) Define um alias",
             "resp": "b"
+        },
+        {
+            "pgt": "Qual comando SQL remove registros de uma tabela?",
+            "alt": "a) DROP\nb) REMOVE\nc) DELETE\nd) ERASE",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual cláusula SQL limita a quantidade de registros retornados?",
+            "alt": "a) LIMIT\nb) WHERE\nc) TOP\nd) FILTER",
+            "resp": "a"
+        },
+        {
+            "pgt": "Qual comando SQL altera a estrutura de uma tabela?",
+            "alt": "a) MODIFY TABLE\nb) CHANGE TABLE\nc) ALTER TABLE\nd) UPDATE TABLE",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual função SQL retorna o maior valor de uma coluna?",
+            "alt": "a) MAX\nb) TOP\nc) HIGH\nd) BIG",
+            "resp": "a"
+        },
+        {
+            "pgt": "Qual função SQL retorna o menor valor?",
+            "alt": "a) LOW\nb) SMALL\nc) MIN\nd) LESS",
+            "resp": "c"
+        },
+        {
+            "pgt": "O que o comando DISTINCT faz?",
+            "alt": "a) Remove registros\nb) Evita valores duplicados\nc) Ordena dados\nd) Junta tabelas",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual JOIN retorna apenas registros correspondentes entre tabelas?",
+            "alt": "a) LEFT JOIN\nb) RIGHT JOIN\nc) FULL JOIN\nd) INNER JOIN",
+            "resp": "d"
+        },
+        {
+            "pgt": "Qual comando SQL cria um banco de dados?",
+            "alt": "a) NEW DATABASE\nb) CREATE DATABASE\nc) ADD DATABASE\nd) MAKE DATABASE",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual palavra-chave define uma chave primária?",
+            "alt": "a) UNIQUE\nb) INDEX\nc) PRIMARY KEY\nd) FOREIGN KEY",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual palavra-chave cria um relacionamento entre tabelas?",
+            "alt": "a) PRIMARY KEY\nb) JOIN\nc) LINK\nd) FOREIGN KEY",
+            "resp": "d"
+        },
+        {
+            "pgt": "Qual operador SQL verifica igualdade?",
+            "alt": "a) ==\nb) =\nc) !=\nd) <>",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual estrutura condicional é usada em Python?",
+            "alt": "a) switch\nb) when\nc) if\nd) select",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual palavra-chave define um loop em Python?",
+            "alt": "a) repeat\nb) for\nc) loop\nd) iterate",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual método remove um item específico de uma lista?",
+            "alt": "a) pop()\nb) delete()\nc) remove()\nd) clear()",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual método remove todos os itens de uma lista?",
+            "alt": "a) pop()\nb) clear()\nc) remove()\nd) del()",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual tipo de dado armazena texto em Python?",
+            "alt": "a) txt\nb) char\nc) string\nd) str",
+            "resp": "d"
+        },
+        {
+            "pgt": "Qual operador lógico representa 'e' em Python?",
+            "alt": "a) &&\nb) AND\nc) and\nd) &",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual operador lógico representa 'ou' em Python?",
+            "alt": "a) ||\nb) or\nc) OR\nd) |",
+            "resp": "b"
+        },
+        {
+            "pgt": "Qual comando encerra o programa em Python?",
+            "alt": "a) stop()\nb) exit()\nc) quit()\nd) close()",
+            "resp": "c"
+        },
+        {
+            "pgt": "Qual biblioteca é muito usada para manipulação de dados em Python?",
+            "alt": "a) numpy\nb) pandas\nc) matplotlib\nd) seaborn",
+            "resp": "b"
         }
-    ]
-}
+
+            ]
+        }
